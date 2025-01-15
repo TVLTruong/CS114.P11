@@ -20,9 +20,8 @@
 ## Thành viên nhóm
 |STT|Họ và Tên|MSSV|Github|Email|
 |:-:|:--------|:--:|:--------|:------|
-|1|Ngô Thành Trung|22521560|||
-|2|Trần Võ Lâm Trường|22521586|[TVLTruong](https://github.com/TVLTruong)|TVLamTruong@gmail.com|
-|3|Nguyễn Thành Vinh|22521676|||
+|1|Trần Võ Lâm Trường|22521586|[TVLTruong](https://github.com/TVLTruong)|TVLamTruong@gmail.com|
+|2|Ngô Nguyễn Nam Trung|22521559|||
 
 
 ## Đồ án môn học
