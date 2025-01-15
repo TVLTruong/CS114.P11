@@ -2,7 +2,7 @@
 
 [Access the Dataset that has been uploaded and published on kaggle](https://www.kaggle.com/datasets/lamtruong1594/car-cs114)
 
-The dataset directory tree/Cây thư mục của dataset:
+## The dataset directory tree/Cây thư mục của dataset:
 
 car-cs114  
 ├── CheckDuplicate                
@@ -41,7 +41,7 @@ car-cs114
 │   └── VinFast                      
 └── ImageErrors.csv             
 
-📝 Dataset Description / Mô Tả Dataset
+## 📝 Dataset Description / Mô Tả Dataset
 
 CheckDuplicate: Folder containing duplicate data / Thư mục chứa dữ liệu trùng lặp
 
