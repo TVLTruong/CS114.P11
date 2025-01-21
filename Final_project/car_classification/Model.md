@@ -6,5 +6,5 @@
 
 - "Fine-tune model RegNet_Y_128GF_Weights.IMAGENET1K_SWAG_E2E_V1 on training split 1 to 5"
 
-- "Model RegNet_Y_128GF_Weights.IMAGENET1K_SWAG_LINEAR_V1 on training split 1 to 5."
+- "Model RegNet_Y_128GF_Weights.IMAGENET1K_SWAG_LINEAR_V1 no finetune on training split 1 to 5."
 
